@@ -9,7 +9,7 @@ public class Main {
         short shortNumber = 157;
         long longNumber = 5000;
         float floatNumber = 5.5f;
-        double doubleNumber = 15.123456f;
+        double doubleNumber = 15.123456;
 
         System.out.println("Значение переменной integerNumber с типом int равно " + integerNumber);
         System.out.println("Значение переменной byteNumber с типом byte равно " + byteNumber);
